@@ -1,8 +1,8 @@
-  <!Doctype hmtl>
+  <!Doctype>
  <hmtl> 
   <comment>
     <body> 
-    <h1> Hello everyone this is my first <em>website!</em></h1>
+    <h1> <b>Hello everyone</b> this is my first <em>website!</em></h1>
   </body>
     
   
